@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/mapbox/qs-hash.png)](https://travis-ci.org/mapbox/qs-hash)
+
 # qs-hash
 
 A simple querystring encoder and decoder, with an option to skip encoding
